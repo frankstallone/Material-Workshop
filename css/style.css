@@ -104,7 +104,7 @@ a:hover { color: #036; }
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font: 167% MuseoSlab, Rockwell, serif;
+	font: 167% MuseoSans, Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 	margin-bottom: .7em;
 }
@@ -112,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
 #container {
 	width: 960px;
 	margin: 15px auto 0;
-	font: 116% MuseoSans, Helvetica, Arial, sans-serif;
+	font: 116% MuseoSlab, Rockwell, serif;
 	line-height: 1.2em;
 }
 

@@ -4,6 +4,28 @@
 <dict>
 	<key>ESProjectShowHiddenFilesKey</key>
 	<false/>
+	<key>ESProjectWindowState</key>
+	<dict>
+		<key>ContentSize</key>
+		<string>{1106, 705}</string>
+		<key>ProjectURL</key>
+		<string>file://localhost/Users/franksta/Desktop/Dropbox/Material-Workshop/Material%20Workshop.esproj/</string>
+		<key>StateType</key>
+		<string>ProjectWindow</string>
+		<key>TopLeftPoint</key>
+		<string>{659, 786}</string>
+	</dict>
+	<key>com.macrabbit.Espresso.FileManager.DisclosureCollapsed</key>
+	<false/>
+	<key>com.macrabbit.Espresso.FileManager.FileControllerState</key>
+	<dict>
+		<key>ExpandedURLs</key>
+		<array>
+			<string>file://localhost/Users/franksta/Desktop/Dropbox/Material-Workshop/css</string>
+		</array>
+	</dict>
+	<key>com.macrabbit.Espresso.Publisher.DisclosureCollapsed</key>
+	<false/>
 	<key>com.macrabbit.Espresso.Workspace.Tabs</key>
 	<dict>
 		<key>Tabs</key>
@@ -28,5 +50,7 @@
 			</dict>
 		</array>
 	</dict>
+	<key>com.macrabbit.Espresso.WorkspaceTabs.DisclosureCollapsed</key>
+	<false/>
 </dict>
 </plist>
