@@ -281,8 +281,6 @@ FileETag None
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
-  RewriteCond $1 !^Material-Workshop/publish/
-  RewriteRule ^(.*)$ Material-Workshop/publish/$1 [L]
 </IfModule>
 
 
