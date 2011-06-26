@@ -10,13 +10,13 @@
 		<array>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Users/franksta/Desktop/Dropbox/Material%20Workshop/index.html</string>
+				<string>file://localhost/Users/franksta/Desktop/Dropbox/Material-Workshop/index.html</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Users/franksta/Desktop/Dropbox/Material%20Workshop/css/style.css</string>
+				<string>file://localhost/Users/franksta/Desktop/Dropbox/Material-Workshop/css/style.css</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
