@@ -81,6 +81,10 @@ a:hover { color: #036; }
  * Author: Frank Stallone III
  */
 
+img {
+	max-width: 100%;
+}
+
 
 @font-face {
     font-family: 'MuseoSans';
@@ -112,23 +116,17 @@ h1, h2, h3, h4, h5, h6 {
 /* Serif Love */
 
 #container {
-	width: 960px;
+	width: 90%; /* Roughly 960px */
 	margin: 15px auto 0;
-	font: 116% MuseoSlab, Rockwell, serif;
+	font: 116% museo-slab-1,museo-slab-2, Rockwell, serif;
 	line-height: 1.2em;
-}
-
-#topbar h1 {
-	background: #fff url('../img/logo.jpg') top left no-repeat;
-	height: 108px;
-	width: 659px;
 }
 
 section {
 	float: left;
-	width: 435px;
-	margin: 15px 15px 0 0;
-	padding: 15px;
+	width: 45.3125%; /* 435 / 960 */
+	margin: 1.5625% 1.5625% 0 0; /* 15 / 960 */
+	padding: 1.5625%; /* 15 / 960 */
 	min-height: 200px;
 	border: 1px dotted #999;
 }
@@ -158,6 +156,14 @@ article {
 .clearfix:after { clear: both; }
 .clearfix { zoom: 1; }
 
+@media screen and (min-width: 1024px) {
+	#container {
+		width: 960px;
+	}  
+
+}
+
+
 
 @media all and (orientation:portrait) {
 
@@ -167,7 +173,19 @@ article {
 
 }
 
-@media screen and (max-device-width: 480px) {
+@media screen and (max-width: 480px) {  
+  
+  #container {
+  	width: 90%;
+  }
+  section {
+  	clear: both;
+  	width: 100%;
+  	margin: 10px 0;
+  }
+  section.last {
+  	margin: 10px 0;
+  }
   
   /* html { -webkit-text-size-adjust:none; -ms-text-size-adjust:none; } */
 }

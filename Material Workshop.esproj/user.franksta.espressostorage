@@ -7,13 +7,13 @@
 	<key>ESProjectWindowState</key>
 	<dict>
 		<key>ContentSize</key>
-		<string>{1106, 705}</string>
+		<string>{1598, 1289}</string>
 		<key>ProjectURL</key>
 		<string>file://localhost/Users/franksta/Desktop/Dropbox/Material-Workshop/Material%20Workshop.esproj/</string>
 		<key>StateType</key>
 		<string>ProjectWindow</string>
 		<key>TopLeftPoint</key>
-		<string>{659, 786}</string>
+		<string>{704, 1418}</string>
 	</dict>
 	<key>com.macrabbit.Espresso.FileManager.DisclosureCollapsed</key>
 	<false/>
@@ -32,12 +32,6 @@
 		<array>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Users/franksta/Desktop/Dropbox/Material-Workshop/index.html</string>
-				<key>StateType</key>
-				<string>DefaultTab</string>
-			</dict>
-			<dict>
-				<key>DocumentURL</key>
 				<string>file://localhost/Users/franksta/Desktop/Dropbox/Material-Workshop/css/style.css</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
@@ -45,6 +39,12 @@
 			<dict>
 				<key>DocumentURL</key>
 				<string>file://localhost/Users/franksta/Desktop/Dropbox/Material-Workshop/.htaccess</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/franksta/Desktop/Dropbox/Material-Workshop/index.html</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
