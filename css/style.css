@@ -132,7 +132,7 @@ section {
 }
 
 section.last {
-	margin: 15px 0 0 0;
+	margin: 1.5625% 0 0 0;
 }
 article {
 }
@@ -173,7 +173,7 @@ article {
 
 }
 
-@media screen and (max-device-width: 480px) {  
+@media screen and (max-width: 480px) {  
   
   #container {
   	width: 90%;
